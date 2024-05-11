@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Yogesh Todarwal
+title: Gyanam Paramam Dhyeyam
 email: todarwal@kth.se
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring Machine Learning, Data Science, and Computational Chemistry insights.
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Yogesh Todarwal"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "I am a researcher skilled in molecular simulations, machine learning, and data analysis."
   links:
