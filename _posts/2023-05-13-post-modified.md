@@ -1,5 +1,5 @@
 ---
-title: "Post: Introduction to Machine Learning: The Key Concepts and Future Prospects"
+title: "Introduction to Machine Learning: The Key Concepts and Future Prospects"
 last_modified_at: 2024-02-13T16:20:02-05:00
 categories:
   - ML 
