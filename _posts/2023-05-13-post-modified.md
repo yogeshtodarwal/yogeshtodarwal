@@ -1,10 +1,12 @@
 ---
-title: "Introduction to Machine Learning: The Key Concepts and Future Prospects"
-last_modified_at: 2024-02-13T16:20:02-05:00
+title: "Day1: Introduction to Machine Learning"
+last_modified_at: 2023-02-13T16:20:02-05:00
 categories:
   - ML 
 tags:
-  - Fundamental
+  - Fundamentals
+  - CampusX
+  - 100 days of ML
 ---
 
 Machine learning (ML) is a vibrant field of computer science that uses statistical techniques to enable machines to improve at tasks with experience. The essence of machine learning is teaching computers to learn from data without being explicitly programmed for every scenario. This field has evolved remarkably over the decades and is now a cornerstone of many technologies in use today.
