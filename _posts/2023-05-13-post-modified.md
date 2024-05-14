@@ -15,7 +15,7 @@ Machine learning (ML) is a vibrant field of computer science that uses statistic
 
 Machine learning is fundamentally about patterns and inference. Unlike traditional programming, where a developer writes the complete set of rules in the form of code, ML involves creating algorithms that can process input data and make decisions or predictions based on it. For instance, instead of writing a program to recognize spam emails through specific keywords, an ML model learns from a dataset of emails which ones are spam based on numerous features, adapting over time as it encounters new types of emails.
 
-![Alt test](~/assets/ML_vsSof.png)
+![Alt test](./assets/ML.png)
 
 ### Machine Learning Applications
 
