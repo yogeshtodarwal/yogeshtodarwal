@@ -1,6 +1,6 @@
 ---
 title: "Day2: Understanding AI vs. Machine Learning vs. Deep Learning"
-last_modified_at: 2023-02-13T16:20:02-05:00
+last_modified_at: 2023-02-14T16:20:02-05:00
 categories:
   - ML 
 tags:
@@ -9,7 +9,14 @@ tags:
   - 100 days of ML
 ---
 
-Welcome to this blog post! Today, we're delving into an essential topic in the realm of Artificial Intelligence (AI): the difference between Machine Learning (ML) and Deep Learning (DL). This post is inspired by a recent lecture I attended, where we explored these fascinating subjects in detail.
+## Historical Context and Evolution
+
+The journey of AI began decades ago, with significant milestones marking its evolution:
+
+1. **Early AI and Expert Systems**: In the 1970s and 1980s, AI research focused on expert systems that encoded human knowledge into rules. However, these systems were limited to narrow, specific problems.
+2. **Rise of ML**: In the 1990s and early 2000s, ML gained prominence. Researchers developed algorithms that could learn from data, leading to advances in fields like speech recognition and predictive analytics.
+3. **Deep Learning Revolution**: Since around 2010, DL has revolutionized AI. With increased computational power and massive datasets, DL models have achieved remarkable results in image and speech recognition, natural language processing, and more.
+
 
 ## Introduction to AI, ML, and DL
 
@@ -39,13 +46,7 @@ Visualizing AI, ML, and DL as concentric circles can help understand their relat
 - **ML**: A smaller circle within AI, focusing on systems that learn from data.
 - **DL**: The innermost circle within ML, representing techniques that use deep neural networks.
 
-## Historical Context and Evolution
 
-The journey of AI began decades ago, with significant milestones marking its evolution:
-
-1. **Early AI and Expert Systems**: In the 1970s and 1980s, AI research focused on expert systems that encoded human knowledge into rules. However, these systems were limited to narrow, specific problems.
-2. **Rise of ML**: In the 1990s and early 2000s, ML gained prominence. Researchers developed algorithms that could learn from data, leading to advances in fields like speech recognition and predictive analytics.
-3. **Deep Learning Revolution**: Since around 2010, DL has revolutionized AI. With increased computational power and massive datasets, DL models have achieved remarkable results in image and speech recognition, natural language processing, and more.
 
 ## Practical Applications
 
