@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : " "
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/assets/bio-photo.jpeg"
   bio    : "I am a researcher skilled in molecular simulations, machine learning, and data analysis."
   links:
     - label: "Website"
